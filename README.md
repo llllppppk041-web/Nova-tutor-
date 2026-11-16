@@ -52,7 +52,7 @@ The model generates declarative scene data, not executable JavaScript, HTML, SVG
 5. Start the FastAPI app and inspect `GET /api/providers/status`.
 6. Run `POST /api/diagnostics/provider` to verify actual model inference.
 
-Detailed instructions: [AI_PROVIDER_GATEWAY.md](AI_PROVIDER_GATEWAY.md).
+Detailed instructions: [AI_PROVIDER_GATEWAY.md](AI_PROVIDER_GATEWAY.md).\n\nDevelopment integration: [INTEGRATION.md](INTEGRATION.md).\n\nCurrent validation scope: [TESTING.md](TESTING.md) and [OPEN_SOURCE_SCOPE.md](OPEN_SOURCE_SCOPE.md).\n\nNext-stage plan: [docs/ROADMAP_V5_KAGGLE_8H.md](docs/ROADMAP_V5_KAGGLE_8H.md).
 
 ## Security defaults
 
